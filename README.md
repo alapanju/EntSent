@@ -1,1 +1,1 @@
-# EntSent
+This is the code and dataset of our paper "Deciphering Political Entity Sentiment in News with Large Language Models: Zero-Shot and Few-Shot Strategies" published in PoliticalNLP2024 workshop held with COLING 2024.
